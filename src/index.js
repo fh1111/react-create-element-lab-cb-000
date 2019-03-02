@@ -25,7 +25,14 @@ const meInReact =
   );
 
 
+<<<<<<< HEAD
 
 
 
 export default meInReact
+=======
+ReactDOM.render(
+  meInReact,
+  document.getElementById('root')
+);
+>>>>>>> a5c74f555d106a395066585bc5ce5c1676d59048
